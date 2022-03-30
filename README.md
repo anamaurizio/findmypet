@@ -10,7 +10,7 @@
 
 ## :hatching_chick: Sobre
 
-**Find My Pet** é um projeto fruto de uma série de trabalhos avaliativos da matéria de Programação Web, do curso de Bacharelado de Sistemas de Informação da Universidade Regional de Blumenau (FURB). O desenvolvimento parte por um grupo de três pessoas (Ana Maria, Brenda e Stephani) e do Vinícius.
+**Find My Pet** é um projeto fruto de uma série de trabalhos avaliativos da matéria de Programação Web, do curso de Bacharelado de Sistemas de Informação da Universidade Regional de Blumenau (FURB). O desenvolvimento parte por um grupo de três pessoas: Ana Maria, Brenda, Stephani e Vinícius.
 
 As tecnologias empregadas no projeto são:
 - Vue.JS;
