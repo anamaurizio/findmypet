@@ -82,7 +82,7 @@ Dito isso, vamos ao passo a passo:
 ### 1. Clone o projeto
 Vá até a pasta desejada e digite o seguinte código:
 ```
-git clone https://github.com/stephanizatta/findmypet.git
+git clone https://github.com/anamaurizio/findmypet.git
 ```
 
 ### 2. Entre na pasta "findmypet"
